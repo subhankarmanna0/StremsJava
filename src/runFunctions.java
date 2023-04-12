@@ -7,6 +7,7 @@ public class runFunctions
 		Test1 a = new Test1();
 		a.regular1();		
 		a.regular2();
+		a.streamMap();
 
 	}
 
