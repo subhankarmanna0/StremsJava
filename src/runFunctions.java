@@ -8,6 +8,7 @@ public class runFunctions
 		a.regular1();		
 		a.regular2();
 		a.streamMap();
+		a.streamCollect();
 
 	}
 
